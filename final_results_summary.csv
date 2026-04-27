@@ -1,0 +1,6 @@
+file,positive_count,baseline_precision_mean,baseline_recall_mean,baseline_f1_mean,improved_precision_mean,improved_recall_mean,improved_f1_mean
+caffe.csv,4,0.0,0.0,0.0,0.0,0.0,0.0
+incubator-mxnet.csv,13,0.0,0.0,0.0,0.375,0.1333,0.188
+keras.csv,7,0.0,0.0,0.0,0.0,0.0,0.0
+pytorch.csv,19,0.0,0.0,0.0,0.0453,0.0444,0.0435
+tensorflow.csv,37,0.0,0.0,0.0,0.226,0.2,0.2044
