@@ -71,12 +71,4 @@ For each bug report:
 │   └── bug_report_classification.ipynb
 ├── results/
 │   ├── final_results_summary.csv
-│   ├── report_table.csv
-│   ├── p_values.csv
-│   └── f1_comparison.png
-├── report/
-│   └── coursework_report.pdf
-├── requirements.pdf
-├── manual.pdf
-├── replication.pdf
 └── README.md
